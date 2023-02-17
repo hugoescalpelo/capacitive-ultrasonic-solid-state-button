@@ -18,3 +18,5 @@ When an finger "press" the button, its plasticity allow the skin to enter the ca
 A system of feedback allows the ultrasonic actuator to detect the position of the finger and change de phase of the ultrasonic wave so "it feels like a mechanical feedback" based on the principle of ultrasonic levitation.
 
 This sytsem includes the composed feedback of another mechanical and non mechanical sound or electromagnetic systems
+
+This idea belongs to Hugo Vargas, alias Hugo Escalpelo.
